@@ -174,7 +174,7 @@ I am particularly interested in opportunities within:
 
 * CS50
 * Python Programming
-* LeetCode
+* LeetCode problem-solving practice
 * SQL & PostgreSQL
 * Data Structures & Algorithms
 * Probability & Statistics
