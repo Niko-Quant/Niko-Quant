@@ -1,40 +1,40 @@
 # Hi, I'm Niko 👋
 
-I'm a Computer Science student at the University of Salford with a strong interest in software engineering, quantitative finance, trading technology and financial data systems.
+I'm a Computer Science student at the University of Salford with interests in software engineering, Python development, trading technology, artificial intelligence and cybersecurity.
 
-My projects focus on algorithmic trading infrastructure, backtesting systems, market-data processing and financial analytics. I enjoy building software that combines programming, data analysis and financial markets.
+My projects include university programming assignments, front-end web development, Python applications and private trading-technology work. I enjoy building software that combines problem-solving, clean code, data handling and practical technical development.
 
-I am currently developing and improving a Python-based backtesting platform alongside automated trading systems built using MQL5 and MetaTrader 5.
+I am currently studying the CS50 course to improve my Python programming, computer science fundamentals and software engineering skills.
 
 ---
 
 ## Focus Areas
 
-* Algorithmic Trading
-* Quantitative Finance
 * Software Engineering
+* Python Development
 * Trading Technology
-* Financial Data Engineering
+* Financial Technology
 * Artificial Intelligence
 * Cybersecurity
+* Data Analysis
 
 ---
 
-## Current Development Focus
+## Current Learning Focus
 
-I am currently focused on making my trading and research infrastructure more realistic, reproducible and production-aware.
+I am currently focused on improving my programming foundations and building practical software projects.
 
 Areas I am actively studying and developing include:
 
-* Transaction-cost and slippage modelling
-* Portfolio analytics and risk reporting
-* Historical market-data processing
-* Trading-system architecture
-* SQL and database design
-* Docker and deployment workflows
-* Probability and statistics
+* Python programming
+* CS50 computer science fundamentals
+* Object-oriented programming
 * Data structures and algorithms
 * Software engineering best practices
+* Web development
+* SQL and database design
+* Probability and statistics
+* Trading-system architecture
 
 ---
 
@@ -47,14 +47,6 @@ Areas I am actively studying and developing include:
 * HTML
 * CSS
 
-### Trading Technology
-
-* Algorithmic Trading
-* Automated Trading Systems
-* Backtesting
-* Strategy Research
-* MetaTrader 5
-
 ### Software Engineering
 
 * Git
@@ -62,56 +54,38 @@ Areas I am actively studying and developing include:
 * Debugging
 * Documentation
 * Problem Solving
+* Object-Oriented Programming
 
-### Data & Analytics
+### Web Development
 
-* Historical Market Data Processing
-* Performance Analysis
-* Quantitative Research
-* Data Analysis
+* HTML
+* CSS
+* Website Structure
+* Navigation Design
+* Front-End Layout
+
+### Trading Technology
+
+* MetaTrader 5
+* MQL5
+* Automated Trading Systems
+* Trade Execution Logic
+* Position Management
+* Risk-Aware Development
 
 ### Currently Learning
 
+* CS50
+* Python
 * SQL
 * PostgreSQL
-* Docker
+* Data Structures & Algorithms
 * Artificial Intelligence
 * Probability & Statistics
 
 ---
 
 ## Featured Projects
-
-### Algorithmic Trading Backtesting Engine
-
-Python-based backtesting platform designed for quantitative strategy research, historical market-data analysis and performance evaluation.
-
-**Current Development Areas**
-
-* Strategy evaluation workflows
-* Historical data processing
-* Performance analytics
-* Risk reporting
-* Portfolio-level testing
-* Execution modelling improvements
-
----
-
-### Private Expert Advisor Development
-
-Development of automated trading systems using MQL5 and MetaTrader 5.
-
-**Focus Areas**
-
-* Trade execution logic
-* Risk management
-* Position management
-* Strategy automation
-* System design
-
-*Proprietary strategy logic remains private.*
-
----
 
 ### Visitor Survey & Analytics Application
 
@@ -121,6 +95,7 @@ Desktop application developed using Python and Tkinter as part of a Computer Sci
 
 * Object-Oriented Programming
 * GUI Development
+* User Input Handling
 * Data Management
 * Software Design
 
@@ -136,6 +111,7 @@ Multi-page website developed using HTML and CSS as part of a Computer Science we
 * Website Structure
 * User Interface Design
 * Navigation Systems
+* Page Layout
 
 ---
 
@@ -153,18 +129,31 @@ Creative Python programming project developed as part of a Computer Science prog
 
 ---
 
+### Private Expert Advisor Development
+
+Private automated trading system developed using MQL5 and MetaTrader 5.
+
+The project focuses on the software engineering side of automated trading, including trade execution logic, position management, risk-aware development, system structure, testing and debugging.
+
+Proprietary strategy logic, entry/exit conditions, indicators, parameters, optimisation results, live settings and production configuration files are intentionally not published.
+
+---
+
 ## Public vs Private Work
 
 For security and intellectual-property reasons, my public repositories do not include:
 
 * Proprietary trading strategies
 * Live production trading logic
+* Entry/exit rules
+* Indicator logic
+* Strategy parameters
 * Broker credentials
 * Account information
 * Private datasets
 * Production configuration files
 
-Instead, public repositories focus on software engineering practices, research workflows, architecture and quantitative-development techniques.
+Instead, my public GitHub focuses on university projects, software engineering practice, documentation, learning progress and high-level technical project overviews.
 
 ---
 
@@ -173,21 +162,23 @@ Instead, public repositories focus on software engineering practices, research w
 I am particularly interested in opportunities within:
 
 * Software Engineering
-* Trading Technology
 * Fintech
+* Trading Technology
 * Financial Data Engineering
-* Quantitative Research Infrastructure
 * Artificial Intelligence
+* Cybersecurity
 
 ---
 
 ## Currently Learning Roadmap
 
+* CS50
+* Python Programming
+* LeetCode
 * SQL & PostgreSQL
-* Docker
-* Probability & Statistics
 * Data Structures & Algorithms
-* Quantitative Finance Concepts
+* Probability & Statistics
+* Software Engineering Best Practices
 * Trading-System Architecture
 
 ---
